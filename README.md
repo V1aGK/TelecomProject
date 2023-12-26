@@ -24,7 +24,7 @@ In this task, a 4-QAM constellation for System 2 is considered. The optimal valu
 
 ## Running the Code
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/V1aGK/TelecomProject/tree/main
 2. Navigate to the project directory: `cd telecommunications-project`
 3. Open MATLAB and run the scripts for each task: `task1.m`, `task2.m`, `task3.m`, `task4.m`
 
